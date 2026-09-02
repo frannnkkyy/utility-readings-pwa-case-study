@@ -97,67 +97,71 @@ I participated in the analysis, design and development of the pilot application.
 
 ## Visual preview
 
-The following screenshots use demonstration data and illustrate the main application workflows.
+The following screenshots use fictional demonstration data and illustrate the main application workflows.
+
+### Monthly reading capture
 
 <p align="center">
-  <a href="./assets/screenshots/monthly-sheets.png">
+  <a href="./assets/screenshots/monthly-reading-capture.png">
     <img
-      src="./assets/screenshots/monthly-sheets.png"
+      src="./assets/screenshots/monthly-reading-capture.png"
       width="900"
-      alt="Monthly utility sheets and QR-assisted capture workflow"
+      alt="Monthly water and electricity reading capture interface"
     >
   </a>
 </p>
 
 <p align="center">
-  <sub><strong>Monthly sheets:</strong> QR-assisted access, reporting-period selection and utility-record organization.</sub>
+  <sub>Monthly data capture with live validation, calculated consumption fields and evidence uploads.</sub>
 </p>
 
-### Account experience and reporting
+### Monthly sheets and QR workflow
 
 <p align="center">
-  <a href="./assets/screenshots/account-settings.png">
+  <a href="./assets/screenshots/monthly-sheets-qr-workflow.png">
     <img
-      src="./assets/screenshots/account-settings.png"
+      src="./assets/screenshots/monthly-sheets-qr-workflow.png"
       width="900"
-      alt="Role-based account information and language settings"
+      alt="Monthly utility sheets and QR-assisted workflow"
     >
   </a>
 </p>
 
 <p align="center">
-  <sub><strong>Account settings:</strong> role information, assigned coverage and bilingual interface preferences.</sub>
+  <sub>QR-assisted access, reporting-period selection and monthly record organization.</sub>
 </p>
 
+### Role-based administration
+
 <p align="center">
-  <a href="./assets/screenshots/role-based-profile.png">
+  <a href="./assets/screenshots/admin-role-profile.png">
     <img
-      src="./assets/screenshots/role-based-profile.png"
+      src="./assets/screenshots/admin-role-profile.png"
       width="900"
-      alt="Role-based user profile and assigned property coverage"
+      alt="Administrator profile and role-based access interface"
     >
   </a>
 </p>
 
 <p align="center">
-  <sub><strong>Role-based profile:</strong> assigned coverage and contextual guidance for application users.</sub>
+  <sub>Administrator account with role information, property coverage and permission-specific navigation.</sub>
 </p>
 
+### Printable utility report
+
 <p align="center">
-  <a href="./assets/screenshots/printable-report.png">
+  <a href="./assets/screenshots/printable-utility-report.png">
     <img
-      src="./assets/screenshots/printable-report.png"
+      src="./assets/screenshots/printable-utility-report.png"
       width="900"
-      alt="Printable monthly utility report"
+      alt="Printable monthly water and electricity report"
     >
   </a>
 </p>
 
 <p align="center">
-  <sub><strong>Printable report:</strong> structured monthly records prepared for review or PDF export.</sub>
+  <sub>Structured monthly utility records prepared for review, printing or PDF export.</sub>
 </p>
-
-> Before publication, all property names, user identities, account details, URLs and utility readings shown in these images must be fictional, anonymized or explicitly approved for public display.
 
 ## Outcome
 
