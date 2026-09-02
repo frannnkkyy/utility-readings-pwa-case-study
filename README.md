@@ -118,9 +118,9 @@ The following screenshots use fictional demonstration data and illustrate the ma
 ### Monthly sheets and QR workflow
 
 <p align="center">
-  <a href="./assets/screenshots/monthly-sheets-qr-workflow.png">
+  <a href="./assets/monthly-sheets-qr-workflow.png">
     <img
-      src="./assets/screenshots/monthly-sheets-qr-workflow.png"
+      src="./assets/monthly-sheets-qr-workflow.png"
       width="900"
       alt="Monthly utility sheets and QR-assisted workflow"
     >
@@ -134,9 +134,9 @@ The following screenshots use fictional demonstration data and illustrate the ma
 ### Role-based administration
 
 <p align="center">
-  <a href="./assets/screenshots/admin-role-profile.png">
+  <a href="./assets/admin-role-profile.png">
     <img
-      src="./assets/screenshots/admin-role-profile.png"
+      src="./assets/admin-role-profile.png"
       width="900"
       alt="Administrator profile and role-based access interface"
     >
@@ -150,9 +150,9 @@ The following screenshots use fictional demonstration data and illustrate the ma
 ### Printable utility report
 
 <p align="center">
-  <a href="./assets/screenshots/printable-utility-report.png">
+  <a href="./assets/printable-utility-report.png">
     <img
-      src="./assets/screenshots/printable-utility-report.png"
+      src="./assets/printable-utility-report.png"
       width="900"
       alt="Printable monthly water and electricity report"
     >
