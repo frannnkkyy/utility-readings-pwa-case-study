@@ -97,17 +97,67 @@ I participated in the analysis, design and development of the pilot application.
 
 ## Visual preview
 
-Public screenshots for this case study use fictional or fully anonymized information. Property names, user identities, account details, URLs, real readings and internal documents are not displayed.
+The following screenshots use demonstration data and illustrate the main application workflows.
 
-Suggested gallery:
+<p align="center">
+  <a href="./assets/screenshots/monthly-sheets.png">
+    <img
+      src="./assets/screenshots/monthly-sheets.png"
+      width="900"
+      alt="Monthly utility sheets and QR-assisted capture workflow"
+    >
+  </a>
+</p>
 
-| View | What it demonstrates |
-|---|---|
-| Dashboard | Summary of readings and operational activity |
-| Reading form | Data-capture experience and validation |
-| Historical view | Search, filtering and record consultation |
-| Period comparison | Visualization of changes over time |
-| Responsive view | Mobile adaptation of the main workflow |
+<p align="center">
+  <sub><strong>Monthly sheets:</strong> QR-assisted access, reporting-period selection and utility-record organization.</sub>
+</p>
+
+### Account experience and reporting
+
+<p align="center">
+  <a href="./assets/screenshots/account-settings.png">
+    <img
+      src="./assets/screenshots/account-settings.png"
+      width="900"
+      alt="Role-based account information and language settings"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <sub><strong>Account settings:</strong> role information, assigned coverage and bilingual interface preferences.</sub>
+</p>
+
+<p align="center">
+  <a href="./assets/screenshots/role-based-profile.png">
+    <img
+      src="./assets/screenshots/role-based-profile.png"
+      width="900"
+      alt="Role-based user profile and assigned property coverage"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <sub><strong>Role-based profile:</strong> assigned coverage and contextual guidance for application users.</sub>
+</p>
+
+<p align="center">
+  <a href="./assets/screenshots/printable-report.png">
+    <img
+      src="./assets/screenshots/printable-report.png"
+      width="900"
+      alt="Printable monthly utility report"
+    >
+  </a>
+</p>
+
+<p align="center">
+  <sub><strong>Printable report:</strong> structured monthly records prepared for review or PDF export.</sub>
+</p>
+
+> Before publication, all property names, user identities, account details, URLs and utility readings shown in these images must be fictional, anonymized or explicitly approved for public display.
 
 ## Outcome
 
