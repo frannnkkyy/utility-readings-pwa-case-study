@@ -102,9 +102,9 @@ The following screenshots use fictional demonstration data and illustrate the ma
 ### Monthly reading capture
 
 <p align="center">
-  <a href="./assets/screenshots/monthly-reading-capture.png">
+  <a href="./assets/monthly-reading-capture.png">
     <img
-      src="./assets/screenshots/monthly-reading-capture.png"
+      src="./assets/monthly-reading-capture.png"
       width="900"
       alt="Monthly water and electricity reading capture interface"
     >
